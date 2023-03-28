@@ -38,4 +38,5 @@ jQuery, Gulp, Git ,Flexbox, Node js, Npm.
 _2008 - 2013 - Lviv Polytechnic National University_
 Master’s degree
 
-
+#### Languages
+**English** - A2
