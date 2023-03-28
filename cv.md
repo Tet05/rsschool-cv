@@ -1,4 +1,4 @@
-   ![Tux, the Linux mascot](/images/avatar.png) # Tetiana Boiko
+ # Tetiana Boiko
 
 ### Frontend Developer
 
@@ -20,5 +20,11 @@ I am a beginner *frontend developer*. I study and develop in this field. Knowled
 - VS Code
 - Figma/Adobe Photoshop
 
-####
+#### Code Example
+```javascript
+function sum(num1,num2) {
+  let result = num1 + num2;
+  return result;
+}
+```
 
