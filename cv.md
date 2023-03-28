@@ -28,3 +28,14 @@ function sum(num1,num2) {
 }
 ```
 
+#### Education
+**Markup developer**
+_2019 - cours From 0 to 1_
+Іtudied the creation of web pages using: HTML, CSS/SCSSJ avaScript,
+jQuery, Gulp, Git ,Flexbox, Node js, Npm.
+
+**Metrology, standardization and certification**
+_2008 - 2013 - Lviv Polytechnic National University_
+Master’s degree
+
+
